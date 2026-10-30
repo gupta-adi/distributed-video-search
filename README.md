@@ -42,7 +42,7 @@ This README is the working spec for the build. It follows our project proposal. 
 
 ## 2. Architecture
 
-![System architecture](docs/architecture.png)
+![System architecture](architecture.png)
 
 Uploads flow through the top half of the diagram, searches through the bottom half. Numbers 1 to 7 in the diagram match the steps in [How it works](#4-how-it-works).
 
